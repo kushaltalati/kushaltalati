@@ -144,29 +144,31 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🐛"
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 Project One</h3>
+      <h3 align="center">🆘 Saarthi — AI Disaster Relief</h3>
       <p align="center">
-        <a href="https://github.com/kushaltalati/project-one">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushaltalati&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=92FE9D" />
+        <a href="https://github.com/jaivardhandrao/BuildVerse-Saarthi">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaivardhandrao&repo=BuildVerse-Saarthi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=92FE9D" />
         </a>
       </p>
       <p>
-        ✨ One-line description of what this project does<br/>
-        🛠️ <strong>Stack:</strong> React, Node.js, MongoDB<br/>
-        🔗 <a href="https://github.com/kushaltalati/project-one">View Repo</a>
+        ✨ AI-powered disaster relief platform connecting victims, volunteers, NGOs &amp; authorities during emergencies<br/>
+        🗺️ Real-time SOS, live incident mapping, shelter locator<br/>
+        🛠️ <strong>Stack:</strong> React, Vite, TailwindCSS, Firebase, Leaflet<br/>
+        🔗 <a href="https://github.com/jaivardhandrao/BuildVerse-Saarthi">View Repo</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Project Two</h3>
+      <h3 align="center">🃏 Poker — Multiplayer Texas Hold'em</h3>
       <p align="center">
-        <a href="https://github.com/kushaltalati/project-two">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushaltalati&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=92FE9D" />
+        <a href="https://github.com/kushaltalati/poker">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushaltalati&repo=poker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=92FE9D" />
         </a>
       </p>
       <p>
-        ✨ One-line description of what this project does<br/>
-        🛠️ <strong>Stack:</strong> Java, Spring Boot, MySQL<br/>
-        🔗 <a href="https://github.com/kushaltalati/project-two">View Repo</a>
+        ✨ Full-stack multiplayer poker — host/join rooms, real-time betting via WebSockets<br/>
+        ♠️ Texas Hold'em flow: bet, fold, call, raise, pot management, winner selection<br/>
+        🛠️ <strong>Stack:</strong> Node.js, Express, Socket.io, MongoDB, React<br/>
+        🔗 <a href="https://github.com/kushaltalati/poker">View Repo</a>
       </p>
     </td>
   </tr>
