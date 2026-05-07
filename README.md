@@ -26,22 +26,47 @@
 
 ```yaml
 name: Kushal Talati
-role: Full Stack Developer
-education: CS Student @ Scaler School of Technology
+role: SDE Intern @ Scaler AI Labs
+education:
+  - Scaler School of Technology  (BS + MS in CS, 2024–2028)
+  - Birla Institute of Technology (BS in CS,      2024–2027)
 focus:
-  - Building scalable backend systems
-  - Designing clean, maintainable APIs
-  - Sharpening DSA fundamentals
+  - Reinforcement Learning environments & agent simulation
+  - Building scalable full-stack systems
+  - Competitive programming & DSA
 currently_learning:
   - System Design
   - Distributed Systems
 fun_fact: "I debug with console.log and I'm not ashamed of it 🐛"
 ```
 
-📫 **Reach me:** [kushal.bt21@gmail.com](mailto:kushal.bt21@gmail.com)
-🌐 **Portfolio:** *coming soon*
+📫 **Reach me:** [kushal.bt21@gmail.com](mailto:kushal.bt21@gmail.com) &nbsp;•&nbsp;
+📄 **Resume:** [Download PDF](./KushalTalati_CV.pdf) &nbsp;•&nbsp;
+💼 **LinkedIn:** [@kushaltalati](https://www.linkedin.com/in/kushaltalati/)
 
 <br clear="both"/>
+
+---
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td width="120" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Nov%202025-Present-92FE9D?style=for-the-badge&labelColor=1a1b27" /><br/>
+      <sub>📍 Bangalore</sub>
+    </td>
+    <td valign="top">
+      <h3>🤖 Software Development Engineer (SDE) Intern</h3>
+      <strong><a href="https://www.scaler.com/">Scaler AI Labs</a></strong><br/>
+      ▸ Designing and implementing simulation frameworks for <strong>Reinforcement Learning</strong> environments<br/>
+      ▸ Training and evaluating RL agents end-to-end<br/>
+      <img src="https://img.shields.io/badge/-Reinforcement%20Learning-FF6F00?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Simulation-4B0082?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -51,7 +76,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🐛"
   <tr>
     <td align="center" width="96"><strong>Languages</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,go&theme=dark" />
     </td>
   </tr>
   <tr>
@@ -69,7 +94,15 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🐛"
   <tr>
     <td align="center" width="96"><strong>Database</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><strong>ML / Data</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch&theme=dark" />
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="48" />
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48" />
     </td>
   </tr>
   <tr>
@@ -188,6 +221,22 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🐛"
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">📉 Financial Loan Defaulter Predictor — ML Risk Model</h3>
+      <p>
+        ✨ ML model that assesses borrower risk and predicts loan defaults — built in a team of 5<br/>
+        📊 Performed data cleaning &amp; feature engineering on large financial datasets to isolate key risk indicators<br/>
+        ⚖️ Applied <strong>SMOTE</strong> to synthesize minority-class data, balancing the dataset and preventing bias toward non-defaulting loans<br/>
+        🛠️ <strong>Stack:</strong>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/-SMOTE-4B0082?style=flat-square" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -195,9 +244,10 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🐛"
 ## 🧠 Competitive Programming
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Codeforces%20Max-1418%20%E2%80%A2%20Specialist-03A89E?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problems%20Solved-495%2B-92FE9D?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Codeforces-Specialist%20%E2%80%A2%20Max%201418-03A89E?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-3%E2%98%85%20%E2%80%A2%20Max%201690-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-1000%2B%20across%20platforms-92FE9D?style=for-the-badge&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Shaastra%20IITM-Finalist-FF6F00?style=for-the-badge&labelColor=1a1b27" />
 </p>
 
 <table align="center">
@@ -216,10 +266,37 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🐛"
 </table>
 
 <p align="center">
-  🏆 <strong>Codeforces max rank:</strong> Specialist (1418) &nbsp; • &nbsp;
-  💯 <strong>495+ problems solved on Codeforces</strong> &nbsp; • &nbsp;
+  🏆 <strong>Codeforces:</strong> Specialist (max 1418) &nbsp; • &nbsp;
+  ⭐ <strong>CodeChef:</strong> 3-star (max 1690) &nbsp; • &nbsp;
   🧠 Strong in <strong>Arrays, DP, Graphs</strong>
 </p>
+
+---
+
+## 🏅 Achievements & Highlights
+
+<table>
+  <tr>
+    <td width="60" align="center">🇯🇵</td>
+    <td><strong>HPAIR ACONF 2025 — Tokyo</strong> &nbsp;|&nbsp; Selected for <strong>HPAIR HCONF 2025</strong><br/><sub>Harvard University's flagship Asia conferences</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🏆</td>
+    <td><strong>Shaastra Programming Contest (IIT Madras)</strong> — Finalist</td>
+  </tr>
+  <tr>
+    <td align="center">💯</td>
+    <td><strong>1000+ DSA / CP problems solved</strong> across Codeforces, CodeChef, LeetCode &amp; more</td>
+  </tr>
+  <tr>
+    <td align="center">🌱</td>
+    <td>Member of <strong>Grunfeld</strong> — the Open Source Software Project @ Scaler SOT &nbsp;<sub>(Nov 2024 – Oct 2025)</sub></td>
+  </tr>
+  <tr>
+    <td align="center">⚔️</td>
+    <td>Member of <strong>NLogN</strong> — Competitive Programming Club @ Scaler SOT &nbsp;<sub>(Jan 2025 – Present)</sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -237,6 +314,9 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🐛"
   </a>
   <a href="https://codeforces.com/profile/kushaltalati_07">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/kushaltalati">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   <a href="https://github.com/kushaltalati">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
