@@ -89,23 +89,25 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🐛"
 ### 🧑‍💻 Personal — [`@kushaltalati`](https://github.com/kushaltalati)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kushaltalati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=92FE9D"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaltalati&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF"/>
+  <img src="https://img.shields.io/github/followers/kushaltalati?style=for-the-badge&color=00C9FF&labelColor=1a1b27&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/kushaltalati?style=for-the-badge&color=92FE9D&labelColor=1a1b27&logo=github&label=Total%20Stars" />
+  <img src="https://img.shields.io/badge/Public%20Repos-21-F75C7E?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushaltalati&theme=tokyonight&hide_border=true&background=0d1117&ring=00C9FF&fire=F75C7E&currStreakLabel=00C9FF" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kushaltalati&theme=tokyonight&hide_border=true&background=0d1117&ring=00C9FF&fire=F75C7E&currStreakLabel=00C9FF" />
 </p>
 
 ### 🎓 Scaler — [`@kushaltalati-scaler`](https://github.com/kushaltalati-scaler)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kushaltalati-scaler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F75C7E&icon_color=92FE9D"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaltalati-scaler&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F75C7E"/>
+  <img src="https://img.shields.io/github/followers/kushaltalati-scaler?style=for-the-badge&color=F75C7E&labelColor=1a1b27&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/kushaltalati-scaler?style=for-the-badge&color=92FE9D&labelColor=1a1b27&logo=github&label=Total%20Stars" />
+  <img src="https://img.shields.io/badge/Coursework-Scaler%20SOT-00C9FF?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1b27" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushaltalati-scaler&theme=tokyonight&hide_border=true&background=0d1117&ring=F75C7E&fire=00C9FF&currStreakLabel=F75C7E" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kushaltalati-scaler&theme=tokyonight&hide_border=true&background=0d1117&ring=F75C7E&fire=00C9FF&currStreakLabel=F75C7E" />
 </p>
 
 ---
@@ -147,28 +149,42 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🐛"
       <h3 align="center">🆘 Saarthi — AI Disaster Relief</h3>
       <p align="center">
         <a href="https://github.com/jaivardhandrao/BuildVerse-Saarthi">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaivardhandrao&repo=BuildVerse-Saarthi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=92FE9D" />
+          <img src="https://img.shields.io/github/stars/jaivardhandrao/BuildVerse-Saarthi?style=for-the-badge&color=00C9FF&labelColor=1a1b27&logo=github" />
+          <img src="https://img.shields.io/github/forks/jaivardhandrao/BuildVerse-Saarthi?style=for-the-badge&color=92FE9D&labelColor=1a1b27&logo=github" />
+          <img src="https://img.shields.io/github/last-commit/jaivardhandrao/BuildVerse-Saarthi?style=for-the-badge&color=F75C7E&labelColor=1a1b27&logo=git&logoColor=white" />
         </a>
       </p>
       <p>
         ✨ AI-powered disaster relief platform connecting victims, volunteers, NGOs &amp; authorities during emergencies<br/>
         🗺️ Real-time SOS, live incident mapping, shelter locator<br/>
-        🛠️ <strong>Stack:</strong> React, Vite, TailwindCSS, Firebase, Leaflet<br/>
-        🔗 <a href="https://github.com/jaivardhandrao/BuildVerse-Saarthi">View Repo</a>
+        🛠️ <strong>Stack:</strong>
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" /><br/>
+        🔗 <a href="https://github.com/jaivardhandrao/BuildVerse-Saarthi"><strong>View Repository →</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🃏 Poker — Multiplayer Texas Hold'em</h3>
       <p align="center">
         <a href="https://github.com/kushaltalati/poker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushaltalati&repo=poker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=92FE9D" />
+          <img src="https://img.shields.io/github/stars/kushaltalati/poker?style=for-the-badge&color=00C9FF&labelColor=1a1b27&logo=github" />
+          <img src="https://img.shields.io/github/forks/kushaltalati/poker?style=for-the-badge&color=92FE9D&labelColor=1a1b27&logo=github" />
+          <img src="https://img.shields.io/github/last-commit/kushaltalati/poker?style=for-the-badge&color=F75C7E&labelColor=1a1b27&logo=git&logoColor=white" />
         </a>
       </p>
       <p>
         ✨ Full-stack multiplayer poker — host/join rooms, real-time betting via WebSockets<br/>
         ♠️ Texas Hold'em flow: bet, fold, call, raise, pot management, winner selection<br/>
-        🛠️ <strong>Stack:</strong> Node.js, Express, Socket.io, MongoDB, React<br/>
-        🔗 <a href="https://github.com/kushaltalati/poker">View Repo</a>
+        🛠️ <strong>Stack:</strong>
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
+        🔗 <a href="https://github.com/kushaltalati/poker"><strong>View Repository →</strong></a>
       </p>
     </td>
   </tr>
