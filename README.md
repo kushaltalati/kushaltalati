@@ -232,10 +232,25 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🐛"
   <img src="https://img.shields.io/badge/Shaastra%20IITM-Finalist-FF6F00?style=for-the-badge&labelColor=1a1b27" />
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://leetcode.com/u/kushaltalati/">
+        <img src="https://leetcard.jacoblin.cool/kushaltalati?theme=dark&font=Fira%20Code&ext=heatmap" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://codeforces.com/profile/kushaltalati_07">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kushaltalati_07&theme=dark" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://leetcode.com/u/kushaltalati/">
-    <img src="https://leetcard.jacoblin.cool/kushaltalati?theme=dark&font=Fira%20Code&ext=heatmap" width="50%" />
-  </a>
+  🏆 <strong>Codeforces:</strong> Specialist (max 1418) &nbsp; • &nbsp;
+  ⭐ <strong>CodeChef:</strong> 3-star (max 1690) &nbsp; • &nbsp;
+  🧠 Strong in <strong>Arrays, DP, Graphs</strong>
 </p>
 
 ---
