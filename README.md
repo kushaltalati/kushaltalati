@@ -178,13 +178,13 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🐛"
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🆘 Saarthi — AI Disaster Relief</h3>
-      <p align="center">
+      <!-- <p align="center">
         <a href="https://github.com/jaivardhandrao/BuildVerse-Saarthi">
           <img src="https://img.shields.io/github/stars/jaivardhandrao/BuildVerse-Saarthi?style=for-the-badge&color=00C9FF&labelColor=1a1b27&logo=github" />
           <img src="https://img.shields.io/github/forks/jaivardhandrao/BuildVerse-Saarthi?style=for-the-badge&color=92FE9D&labelColor=1a1b27&logo=github" />
           <img src="https://img.shields.io/github/last-commit/jaivardhandrao/BuildVerse-Saarthi?style=for-the-badge&color=F75C7E&labelColor=1a1b27&logo=git&logoColor=white" />
         </a>
-      </p>
+      </p> -->
       <p>
         ✨ AI-powered disaster relief platform connecting victims, volunteers, NGOs &amp; authorities during emergencies<br/>
         🗺️ Real-time SOS, live incident mapping, shelter locator<br/>
@@ -199,13 +199,13 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🐛"
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🃏 Poker — Multiplayer Texas Hold'em</h3>
-      <p align="center">
+      <!-- <p align="center">
         <a href="https://github.com/kushaltalati/poker">
           <img src="https://img.shields.io/github/stars/kushaltalati/poker?style=for-the-badge&color=00C9FF&labelColor=1a1b27&logo=github" />
           <img src="https://img.shields.io/github/forks/kushaltalati/poker?style=for-the-badge&color=92FE9D&labelColor=1a1b27&logo=github" />
           <img src="https://img.shields.io/github/last-commit/kushaltalati/poker?style=for-the-badge&color=F75C7E&labelColor=1a1b27&logo=git&logoColor=white" />
         </a>
-      </p>
+      </p> -->
       <p>
         ✨ Full-stack multiplayer poker — host/join rooms, real-time betting via WebSockets<br/>
         ♠️ Texas Hold'em flow: bet, fold, call, raise, pot management, winner selection<br/>
