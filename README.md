@@ -219,22 +219,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🐛"
       </p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">📉 Financial Loan Defaulter Predictor — ML Risk Model</h3>
-      <p>
-        ✨ ML model that assesses borrower risk and predicts loan defaults — built in a team of 5<br/>
-        📊 Performed data cleaning &amp; feature engineering on large financial datasets to isolate key risk indicators<br/>
-        ⚖️ Applied <strong>SMOTE</strong> to synthesize minority-class data, balancing the dataset and preventing bias toward non-defaulting loans<br/>
-        🛠️ <strong>Stack:</strong>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/-SMOTE-4B0082?style=flat-square" />
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
