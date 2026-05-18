@@ -117,56 +117,54 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🐛"
 
 ## 📊 GitHub Stats
 
-> 💡 I work across **two GitHub accounts**: [`@kushaltalati`](https://github.com/kushaltalati) (personal projects & open source) and [`@kushaltalati-scaler`](https://github.com/kushaltalati-scaler) (Scaler coursework & DSA practice). Stats from both are shown below.
+> 💡 Activity spans two accounts — [`@kushaltalati`](https://github.com/kushaltalati) (personal & open source) and [`@kushaltalati-scaler`](https://github.com/kushaltalati-scaler) (Scaler coursework & DSA).
 
-### 🧑‍💻 Personal — [`@kushaltalati`](https://github.com/kushaltalati)
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/kushaltalati?style=for-the-badge&color=00C9FF&labelColor=1a1b27&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/kushaltalati?style=for-the-badge&color=92FE9D&labelColor=1a1b27&logo=github&label=Total%20Stars" />
-  <img src="https://img.shields.io/badge/Public%20Repos-21-F75C7E?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kushaltalati&theme=tokyonight&hide_border=true&background=0d1117&ring=00C9FF&fire=F75C7E&currStreakLabel=00C9FF" />
-</p>
-
-### 🎓 Scaler — [`@kushaltalati-scaler`](https://github.com/kushaltalati-scaler)
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/kushaltalati-scaler?style=for-the-badge&color=F75C7E&labelColor=1a1b27&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/kushaltalati-scaler?style=for-the-badge&color=92FE9D&labelColor=1a1b27&logo=github&label=Total%20Stars" />
-  <img src="https://img.shields.io/badge/Coursework-Scaler%20SOT-00C9FF?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1b27" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kushaltalati-scaler&theme=tokyonight&hide_border=true&background=0d1117&ring=F75C7E&fire=00C9FF&currStreakLabel=F75C7E" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <sub><b>@kushaltalati</b></sub><br/>
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kushaltalati&theme=tokyonight&hide_border=true&background=0d1117&ring=00C9FF&fire=F75C7E&currStreakLabel=00C9FF" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <sub><b>@kushaltalati-scaler</b></sub><br/>
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kushaltalati-scaler&theme=tokyonight&hide_border=true&background=0d1117&ring=F75C7E&fire=00C9FF&currStreakLabel=F75C7E" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kushaltalati&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-</p>
-<p align="center"><sub><i>Trophies from <a href="https://github.com/kushaltalati-scaler">@kushaltalati-scaler</a></i></sub></p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kushaltalati-scaler&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <sub><b>@kushaltalati</b></sub><br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=kushaltalati&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <sub><b>@kushaltalati-scaler</b></sub><br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=kushaltalati-scaler&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🔥 Contribution Activity
 
-<p align="center"><sub><i>Personal — <a href="https://github.com/kushaltalati">@kushaltalati</a></i></sub></p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushaltalati&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C9FF&line=92FE9D&point=F75C7E&area=true&area_color=00C9FF" />
-</p>
-<p align="center"><sub><i>Scaler — <a href="https://github.com/kushaltalati-scaler">@kushaltalati-scaler</a></i></sub></p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushaltalati-scaler&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=F75C7E&line=92FE9D&point=00C9FF&area=true&area_color=F75C7E" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <sub><b>@kushaltalati</b></sub><br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushaltalati&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C9FF&line=92FE9D&point=F75C7E&area=true&area_color=00C9FF" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <sub><b>@kushaltalati-scaler</b></sub><br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushaltalati-scaler&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=F75C7E&line=92FE9D&point=00C9FF&area=true&area_color=F75C7E" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kushaltalati/kushaltalati/output/github-contribution-grid-snake.svg" />
